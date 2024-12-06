@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 
 # Path to the saved model and its components
-MODEL_PATH = r"C:\credit_risk_modeling\artifacts\model_data.joblib"
+MODEL_PATH = r"C:/credit_risk_modeling/artifacts/model_data.joblib"
 
 
 # Load the model and its components
